@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mosca": "^2.0.2"
+    "aedes": "^0.40.1"
   }
 }
