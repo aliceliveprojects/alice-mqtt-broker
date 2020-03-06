@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "aedes": "^0.40.1",
+    "aedes-persistence": "^8.1.1",
     "websocket-stream": "^5.5.2"
   }
 }
